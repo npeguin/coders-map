@@ -880,7 +880,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/skapamap\/tilesets_deviant_milkian_2.png",
+         "image":"tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -976,7 +976,7 @@
         {
          "columns":16,
          "firstgid":577,
-         "image":"..\/skapamap\/tilesets_deviant_milkian_3.png",
+         "image":"tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -985,6 +985,78 @@
          "tilecount":256,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":72,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":73,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":74,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":75,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":88,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":89,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":90,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":91,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":134,
                  "properties":[
