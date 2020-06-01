@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/api.workadventu.re\/map\/files\/Floor0\/floor0.json"
+                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
