@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/..\/..\/maps.workadventu.re\/Floor0\/floor0.json"
                 }],
