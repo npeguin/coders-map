@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/corridor-map\/map.json#front_of_coders"
+                 "value":"\/@\/tcm\/workadventure\/corridor#front_of_coders"
                 }],
          "type":"tilelayer",
          "visible":true,
